@@ -27,14 +27,14 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Right2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/explore2-goBack2.jpg')");
+		$("#exploreBody").css("background-image", "url('img/tumblr_muqsqvUeCn1r70le6o1_500.gif')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
 	});
 
 
 	$("#goLeft1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft1.jpg')");
+		$("#exploreBody").css("background-image", "url('img/jYqqRWg.jpg')");
 		$("#goLeft1").hide();
 		$("#goLeft2").show();
 	});
