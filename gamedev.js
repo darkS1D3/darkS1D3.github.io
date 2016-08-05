@@ -71,6 +71,8 @@ $( document ).hide(function()
 		$("#reaper").hide();
 	});
 
-
+$("#reaper").click(function() {
+		$("#reaper").hide();
+	});
 
 });
