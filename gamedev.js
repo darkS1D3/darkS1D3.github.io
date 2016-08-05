@@ -34,13 +34,13 @@ $( document ).ready(function() {
 
 
 	$("#goLeft1").click(function() {
-		$("#exploreBody").css("background-image", "url('dark-forest-7.jpg')");
+		$("#exploreBody").css("background-image", "url('img/dark-forest-7.jpg')");
 		$("#goLeft1").hide();
 		$("#goLeft2").show();
 	});
 
 	$("#goLeft-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('6e5a26ec579ebfa144a6557d4ab0ee90.jpg')");
+		$("#exploreBody").css("background-image", "url('img/6e5a26ec579ebfa144a6557d4ab0ee90.jpg')");
 		$("#goLeft2").hide();
 		$("#goLeft3").show();
 	});
