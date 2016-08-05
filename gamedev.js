@@ -34,7 +34,7 @@ $( document ).ready(function() {
 
 
 	$("#goLeft1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft1.jpg')");
+		$("#exploreBody").css("background-image", "url('img/jYqqRWg.jpg')");
 		$("#goLeft1").hide();
 		$("#goLeft2").show();
 	});
