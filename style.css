@@ -158,7 +158,8 @@ display: inline;
     background-image: url("img/Reaper_portrait.jpg");
     width: 200px;
     height: 100px;
-    background-size: 50px, 50px;
+    background-size: 100px, 100px;
+    background-repeat: no-repeat;
 
 
 }
