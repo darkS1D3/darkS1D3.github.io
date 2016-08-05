@@ -79,7 +79,7 @@ $("#reaper").hide();
 
 $("#reaper").click(function() {
 		$("#reaper").hide();
-		score = score++;
+		score = score + 1;
 	});
 
 
