@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-$( document ).hide(function() 
+$("#reaper").hide(function() 
 	$("#goRight1").click(function() {
 		$("#exploreBody").css("background-image", "url('img/dark-forest-wallpaper-3.jpg')");
 		$("#goRight1").hide();
