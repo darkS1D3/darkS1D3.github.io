@@ -1,4 +1,7 @@
 $( document ).ready(function() {
+checkScore();
+
+
 $("#reaper").hide();
 	$("#goRight1").click(function() {
 		$("#exploreBody").css("background-image", "url('img/dark-forest-wallpaper-3.jpg')");
