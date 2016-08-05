@@ -58,6 +58,10 @@ $( document ).ready(function() {
 		$("#goRight1").show();
 		$("#goLeft1").show();
 	});
+//this is where my bad guy click functions start
+	$("#reaper").click(function() {
+		$("#goBack").hide();
+	});
 
 
 
