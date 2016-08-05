@@ -166,3 +166,16 @@ display: inline;
 
 
 }
+
+
+#kenji {
+    background-image: url("img/322px-Genji-portrait.jpg");
+    width: 200px;
+    height: 100px;
+    background-size: 200px, 200px;
+    background-repeat: no-repeat;
+    margin-left: 370px; 
+    margin-top: 450px;
+    margin-bottom: 150px;
+
+}
