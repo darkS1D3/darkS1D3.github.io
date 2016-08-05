@@ -64,5 +64,10 @@ $( document ).ready(function() {
 	});
 
 
+	$("#reaper").click(function() {
+		$("#reaper").hide();
+	});
+
+
 
 });
