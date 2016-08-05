@@ -12,7 +12,7 @@ body {
 .titleContent {
 	margin: 10% auto;
     text-align: center;
-    font-family: "orange juice"orange;
+    font-family: "orange juice";
 }
 
 .splashTitle {
@@ -20,6 +20,7 @@ body {
     font-size: 8em;
     text-transform: uppercase;
     text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+     font-family: "orange juice";
 }
 
 .button {
@@ -30,6 +31,7 @@ body {
     text-decoration: none;
     background-color: #FFFFFF;
     box-shadow: 15px 15px 80px #555;
+         font-family: "orange juice";
 }
   a.button:hover {
     background-color: #000000;
