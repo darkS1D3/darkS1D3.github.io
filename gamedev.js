@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-
+$( document ).hide(function() 
 	$("#goRight1").click(function() {
 		$("#exploreBody").css("background-image", "url('img/dark-forest-wallpaper-3.jpg')");
 		$("#goRight1").hide();
@@ -35,7 +35,6 @@ $( document ).ready(function() {
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
 	});
-
 
 	$("#goLeft1").click(function() {
 		$("#exploreBody").css("background-image", "url('img/dark-forest-7.jpg')");
