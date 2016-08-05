@@ -3,7 +3,7 @@ body {
 	background-image: url("http://31.media.tumblr.com/bebe2de8ca5823d7abad15250ffd8b26/tumblr_n027saG8GK1spd7x6o1_500.gif");
     background-size: cover;
     background-position: center center;
-	font-family: monospace;
+	font-family: "orange juice"orange;
 
 }
 
@@ -12,7 +12,7 @@ body {
 .titleContent {
 	margin: 10% auto;
     text-align: center;
-    font-family: "orange juice"orange; ;
+    font-family: "orange juice"orange;
 }
 
 .splashTitle {
