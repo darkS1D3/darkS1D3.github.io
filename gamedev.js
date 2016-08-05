@@ -1,4 +1,5 @@
 $( document ).ready(function() {
+
 var score = 0;
 checkScore();
 
@@ -81,12 +82,14 @@ $("#reaper").click(function() {
 		score = score++;
 	});
 
-});
+
 
 function checkScore(){
 	if(score > 2){
-		window.location.href = '#';
+		window.location.href = 'https://www.bsdacademy.com';
 	}else{
 
 	}
 }
+
+});
