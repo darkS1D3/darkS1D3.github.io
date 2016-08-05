@@ -34,6 +34,7 @@ $("#reaper").hide();
 		$("#exploreBody").css("background-image", "url('img/tumblr_muqsqvUeCn1r70le6o1_500.gif')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
+		$("#reaper").show();
 
 		$('#hudobj').replaceWith("<p> Its a trap and a monster kills YOU ! </p>");
 	});
@@ -58,6 +59,7 @@ $("#reaper").hide();
 		$("#goLeft3").hide();
 		$("#goBack").show();
 		$('#hudobj').replaceWith("<p> You keep exploring the area to find more answers. </p>");
+		$("#reaper").show();
 	});
 
 
@@ -67,10 +69,20 @@ $("#reaper").hide();
 		$("#goRight1").show();
 		$("#goLeft1").show();
 		$('#hudobj').replaceWith("<p> You keep exploring the area to find more answers. </p>");
+		$("#reaper").show();
 	});
 
 $("#reaper").click(function() {
 		$("#reaper").hide();
+		score = score++;
 	});
 
 });
+
+function checkScore(){
+	if(score > 2){
+		window.location.href = '#';
+	}else{
+
+	}
+}

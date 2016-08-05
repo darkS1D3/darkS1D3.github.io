@@ -161,21 +161,23 @@ display: inline;
     background-size: 200px, 200px;
     background-repeat: no-repeat;
     margin-left: 300px; 
-    margin-top: 900px;
+    margin-top: 300px;
     margin-bottom: 150px;
+    position: absolute;
 
 
 }
 
-
+/*
 #kenji {
     background-image: url("img/NkkGYNI.gif ");
     width: 200px;
     height: 100px;
     background-size: 200px, 200px;
     background-repeat: no-repeat;
-    margin-left: 3700.px; 
+    margin-left: 370px; 
     margin-top: 450px;
     margin-bottom: 150px;
 
 }
+*/
