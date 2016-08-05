@@ -15,7 +15,11 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight2").click(function() {
+<<<<<<< Updated upstream
 		$("#exploreBody").css("background-image", "url('http://31.media.tumblr.com/e058aac8d60b3148c8272b7a9546cfd5/tumblr_n90xhg6fID1trijtjo1_500.gif')");
+=======
+		$("#exploreBody").css("background-image", "url('https://media.giphy.com/media/5xtDaryppd5NqQMgT4I/giphy.gif')");
+>>>>>>> Stashed changes
 		$("#goRight-Straight2").hide();
 		$("#goRight-Straight3").show();
 	});
@@ -46,7 +50,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/https://media.giphy.com/media/5xtDaryppd5NqQMgT4I/giphy.gif')");
+		$("#exploreBody").css("background-image", "url('img/6e5a26ec579ebfa144a6557d4ab0ee90.jpg')");
 		$("#goLeft3").hide();
 		$("#goBack").show();
 	});
