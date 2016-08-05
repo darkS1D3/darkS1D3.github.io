@@ -60,7 +60,7 @@ $( document ).ready(function() {
 	});
 //this is where my bad guy click functions start
 	$("#reaper").click(function() {
-		$("#goBack").hide();
+		$("#reaper").hide();
 	});
 
 
