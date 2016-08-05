@@ -1,4 +1,5 @@
 $( document ).ready(function() {
+var score = 0;
 checkScore();
 
 
