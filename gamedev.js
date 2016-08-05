@@ -15,7 +15,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('https://media.giphy.com/media/5xtDaryppd5NqQMgT4I/giphy.gif')");
+		$("#exploreBody").css("background-image", "url('http://31.media.tumblr.com/e058aac8d60b3148c8272b7a9546cfd5/tumblr_n90xhg6fID1trijtjo1_500.gif')");
 		$("#goRight-Straight2").hide();
 		$("#goRight-Straight3").show();
 	});
