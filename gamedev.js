@@ -46,7 +46,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/exploreLeft3.jpg')");
+		$("#exploreBody").css("background-image", "url('img/https://media.giphy.com/media/5xtDaryppd5NqQMgT4I/giphy.gif')");
 		$("#goLeft3").hide();
 		$("#goBack").show();
 	});
