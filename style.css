@@ -24,16 +24,16 @@ body {
 
 .button {
 	border: 5px solid #383838;
-    color: #383838;
+    color: #000000;
     padding: 20px 50px;
     font-size: 5em;
     text-decoration: none;
-    background-color: #abc;
+    background-color: #FFFFFF;
     box-shadow: 15px 15px 80px #555;
 }
   a.button:hover {
-    background-color: #383838;
-    color: #abc;
+    background-color: #000000;
+    color: #FFFFFF;
   }
 
 
